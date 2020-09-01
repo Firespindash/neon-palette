@@ -21,6 +21,7 @@ button {
   background-color: inherit;
   background-position: center;
   color: #1b1c31;
+  font-size: 14px;
 }
 button .circle {
   position: absolute;
