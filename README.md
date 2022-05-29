@@ -1,13 +1,13 @@
 # neon-palette
-It's a html page to show gradients and neon colors to help in color choices.
+It's an html page with my personal collection of color palettes, it also contains neon color gradients, to help choosing colors.
 
 ![html-palette](neon-palette(1366x768).png)
 
-I already used these colors and gradients in another project. It's based in part of colors theory. Making some researches I found neon colors, these colors are useful to make from pixel art to vectors. For digital design these colors help a lot. So I created this html page to help in color choices using only these colors.
+These colors and gradients are the main used by me in other projects. It started when I was searching for better colors for digital design. Then I discovered the "neon colors", and realized that these good colors usually are bright ones or careful selected ones. That's the reason I started making this, my selection of palettes and gradients. Hopefully, it can help other people too. So I decided to let it public. I found these colors useful to make from pixel art to vector design.
 \
 \
-The html page contains mainly the gradients I found and the .zip file contains the color palettes compressed. There are more than 50 palettes in the .zip file.
+The html page contains the primary neon colors from my search and gradients I found too. And the .zip file containing the color palettes with nice colors compressed. There are more than 50 palettes in the .zip file.
 \
 \
-Good places to search about neon colors and gradients and places that I searched are Pinterest, ColorHunt and Instagram.
-I picked the palettes on colorhunt website searching for neon colors. If you want more palettes like these search for Mehdi Khodamoradi UX designer.
+I took the colors and gradients on *Pinterest*, *ColorHunt* and *Instagram* lol.
+I picked the palettes on *ColorHunt* website searching for neon colors. And mainly some beautiful gradients made by *Mehdi Khodamoradi* UX designer.
